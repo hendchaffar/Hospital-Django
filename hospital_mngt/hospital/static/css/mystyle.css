@@ -1,0 +1,23 @@
+.background-image {
+    /* Set the background image */
+    background-image: url('your-image.jpg');
+
+    /* Full height and width */
+    height: 100%;
+    width: 100%;
+
+    /* Background image settings */
+    background-size: cover; /* Cover the entire element */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    
+    /* Optional: Add additional styling for your content */
+    color: #fff; /* Text color */
+    text-align: center;
+
+}
+
+hr.rounded{
+border-top: 10px solid rgb(29, 51, 58);
+border-radius: 5px;
+}
